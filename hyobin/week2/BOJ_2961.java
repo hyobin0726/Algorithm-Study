@@ -33,7 +33,6 @@ public class BOJ_2961 {
                 temp.remove(arr.get(i));
             }
         }
-
     }
     static void taste(List<int[]> taste){
         int x =1;
