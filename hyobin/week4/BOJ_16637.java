@@ -24,6 +24,7 @@ public class BOJ_16637 {
         dfs(arr.get(0),0);
         System.out.println(total);
     }
+    //백트래킹
     static void dfs(int temp,  int cnt){
         //연산자 모두 사용한 경우
         if (cnt == op.size()){
