@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
  
-public class Solution {
+public class SEA_5644 {
  
     static class BC{
         int x;
@@ -13,6 +13,7 @@ public class Solution {
         int c;
         int p;
     }
+
  
     static int M;
     static int A;
