@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class SEA_4012 {
+
 	
 	static BufferedReader br;
 	static StringTokenizer st;
