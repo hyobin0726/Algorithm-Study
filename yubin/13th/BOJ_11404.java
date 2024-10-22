@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 
-public class BOJ_16234 {
+public class BOJ_11404 {
 	static BufferedReader br;
 	static StringTokenizer st;
 	static StringBuilder sb;
